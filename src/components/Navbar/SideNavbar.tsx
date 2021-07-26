@@ -1,6 +1,6 @@
 import React from "react";
 import PieChartIcon from "./../Icons/PieChartIcon";
-import JBIcon from "./../Icons/JBIcon";
+// import JBIcon from "./../Icons/JBIcon";
 import "./Navbar.scss";
 
 export default function SideNavbar() {
